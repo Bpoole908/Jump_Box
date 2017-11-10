@@ -13,16 +13,19 @@ if (place_meeting(x, y+1, obj_wall))
 		vsp = -jumpspeed;
 	}
 } else {
-	if (vsp < 10) {
+	if (vsp < 15) {
+		/*
 		if((place_meeting(x-1, y, obj_wall) || place_meeting(x+1, y, obj_wall)) && !place_meeting(x, y+1, obj_wall))
 		{
-			grav = .5
 			show_debug_message("wall hanging "+ string(grav));
+
 		
 		} else {
 			show_debug_message("falling" + string(grav));
 			grav = .7;
 		}
+		*/
+
 		vsp += grav;
 	}
 }
