@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "a112953f-7cb4-4897-894d-2c3cebe72816",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
             "Key": "af6dcdad-2f24-43dc-a94c-380525af13a5",
             "Value": {
                 "id": "908f1491-1d72-4097-ae7f-b165a02a700b",
@@ -255,11 +263,27 @@
             }
         },
         {
+            "Key": "e6ececff-a62e-4dab-b01c-865bb45cd75e",
+            "Value": {
+                "id": "3b076ffb-e386-410c-bcdd-f3631f07190f",
+                "resourcePath": "objects\\obj_life_score_controller\\obj_life_score_controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "eb931a92-47fb-4749-b653-e43ad0110dc4",
             "Value": {
                 "id": "652b0f3a-8ff9-4c53-9292-a73388dcb2f4",
                 "resourcePath": "scripts\\srpt_player_movement\\srpt_player_movement.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "c876d1e5-d7ad-4ac3-b23b-0274d73a2193",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
             }
         },
         {
