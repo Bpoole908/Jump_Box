@@ -2,11 +2,13 @@
 /// @DnDVersion : 1
 /// @DnDHash : 12B62677
 /// @DnDArgument : "x" "64"
-var l12B62677_0 = sprite_get_width(noone);
+/// @DnDArgument : "sprite" "spr_life"
+/// @DnDSaveInfo : "sprite" "2f281a95-40bd-4f1a-80cd-d9b7900d5726"
+var l12B62677_0 = sprite_get_width(spr_life);
 var l12B62677_1 = 0;
 if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
 for(var l12B62677_2 = __dnd_lives; l12B62677_2 > 0; --l12B62677_2) {
-	draw_sprite(noone, 0, 64 + l12B62677_1, 0);
+	draw_sprite(spr_life, 0, 64 + l12B62677_1, 0);
 	l12B62677_1 += l12B62677_0;
 }
 
