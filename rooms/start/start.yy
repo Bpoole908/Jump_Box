@@ -8,7 +8,12 @@
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
         "09dfd8b9-f3b6-4cd8-91b7-4c4ff66c3368",
-        "bcca7191-d9c6-40e9-aab9-d674354c05b0"
+        "bcca7191-d9c6-40e9-aab9-d674354c05b0",
+        "3ab6bf9d-aedf-465e-867c-9f80ddac1593",
+        "f30cf66e-1d53-43b5-9b5a-72528cd050af",
+        "81845f4f-5137-47ef-950b-0ccc55c2eeaf",
+        "445f20b6-01c8-4585-9bdd-e7702134c56b",
+        "fbb4b1ae-d1c4-46fe-a0c9-841f663955d4"
     ],
     "IsDnD": true,
     "layers": [
@@ -17,8 +22,8 @@
             "name": "Instances",
             "id": "7ff11d4d-67c2-4662-95e4-1c9d6269fd9c",
             "depth": 0,
-            "grid_x": 32,
-            "grid_y": 32,
+            "grid_x": 16,
+            "grid_y": 16,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "inheritLayerDepth": false,
@@ -26,8 +31,13 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-                {"name": "inst_4E0BF881","id": "09dfd8b9-f3b6-4cd8-91b7-4c4ff66c3368","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_4E0BF881","objId": "23db60b8-12d2-4a53-a0e9-8b25c29e177d","rotation": 0,"scaleX": 2.5,"scaleY": 2.5,"mvc": "1.0","x": 352,"y": 352},
-                {"name": "inst_76E7FFAC","id": "bcca7191-d9c6-40e9-aab9-d674354c05b0","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_76E7FFAC","objId": "e6ececff-a62e-4dab-b01c-865bb45cd75e","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 96,"y": 32}
+                {"name": "inst_4E0BF881","id": "09dfd8b9-f3b6-4cd8-91b7-4c4ff66c3368","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_4E0BF881","objId": "23db60b8-12d2-4a53-a0e9-8b25c29e177d","rotation": 0,"scaleX": 2.5,"scaleY": 2.5,"mvc": "1.0","x": 432,"y": 36},
+                {"name": "inst_76E7FFAC","id": "bcca7191-d9c6-40e9-aab9-d674354c05b0","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_76E7FFAC","objId": "e6ececff-a62e-4dab-b01c-865bb45cd75e","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 96,"y": 32},
+                {"name": "inst_5D2DE362","id": "3ab6bf9d-aedf-465e-867c-9f80ddac1593","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5D2DE362","objId": "a15f9749-2e6a-4ef6-a0a5-c6517db1920b","rotation": 0,"scaleX": 32,"scaleY": 1,"mvc": "1.0","x": 0,"y": 736},
+                {"name": "inst_E42B0A3","id": "f30cf66e-1d53-43b5-9b5a-72528cd050af","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_E42B0A3","objId": "a15f9749-2e6a-4ef6-a0a5-c6517db1920b","rotation": 0,"scaleX": 11,"scaleY": 23,"mvc": "1.0","x": 0,"y": 0},
+                {"name": "inst_4A56EE4E","id": "81845f4f-5137-47ef-950b-0ccc55c2eeaf","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_4A56EE4E","objId": "a15f9749-2e6a-4ef6-a0a5-c6517db1920b","rotation": 0,"scaleX": 11,"scaleY": 23,"mvc": "1.0","x": 672,"y": 0},
+                {"name": "inst_4B874A50","id": "445f20b6-01c8-4585-9bdd-e7702134c56b","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_4B874A50","objId": "a15f9749-2e6a-4ef6-a0a5-c6517db1920b","rotation": 0,"scaleX": 14.5,"scaleY": 1,"mvc": "1.0","x": 304,"y": 0},
+                {"name": "inst_BAE410D","id": "fbb4b1ae-d1c4-46fe-a0c9-841f663955d4","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_BAE410D","objId": "2fc38297-ef95-4c4e-9786-d662c2cec805","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 480,"y": 688}
             ],
             "layers": [
 
@@ -64,7 +74,7 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "b063d137-096b-45ae-b30f-f11d4b49069e",
+            "spriteId": "00000000-0000-0000-0000-000000000000",
             "stretch": false,
             "userdefined_animFPS": false,
             "userdefined_depth": false,

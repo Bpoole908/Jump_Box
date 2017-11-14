@@ -1,6 +1,6 @@
 /// @DnDAction : YoYo Games.Common.Execute_Script
 /// @DnDVersion : 1.1
 /// @DnDHash : 7BB88DCD
-/// @DnDArgument : "script" "scpt_player_init"
-/// @DnDSaveInfo : "script" "7274d112-ce3c-4d94-ba95-cc475c34cd6f"
-script_execute(scpt_player_init);
+/// @DnDArgument : "script" "scr_player_init"
+/// @DnDSaveInfo : "script" "465ea269-6f01-4a24-9061-c72ad8f12143"
+script_execute(scr_player_init);

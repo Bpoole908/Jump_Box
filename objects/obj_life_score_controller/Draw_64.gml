@@ -15,8 +15,9 @@ for(var l12B62677_2 = __dnd_lives; l12B62677_2 > 0; --l12B62677_2) {
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1
 /// @DnDHash : 1AFA000B
-/// @DnDArgument : "font" "fnt_Score"
-draw_set_font(fnt_Score);
+/// @DnDArgument : "font" "fnt_score"
+/// @DnDSaveInfo : "font" "3fb48db4-a37c-43e6-8897-6185d86ac7b8"
+draw_set_font(fnt_score);
 
 /// @DnDAction : YoYo Games.Drawing.Set_Color
 /// @DnDVersion : 1
