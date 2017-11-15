@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1c94fab2-49e7-4d99-9bff-b83385a84e15",
+            "Value": {
+                "id": "c0f0412e-06d1-4d5b-8066-1d3b7bb88a59",
+                "resourcePath": "objects\\obj_saw_moving_ver\\obj_saw_moving_ver.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "20d71c13-544a-413d-8a4a-ef0302f77a56",
             "Value": {
                 "id": "a9f8405c-c8e9-4264-865d-341619c182e8",
@@ -175,10 +183,26 @@
             }
         },
         {
+            "Key": "4ff11b67-6d9f-4467-ab45-0b7fca11c8b9",
+            "Value": {
+                "id": "40b99ca9-15b8-477a-b5ec-b281fb58de34",
+                "resourcePath": "rooms\\rm_level_two\\rm_level_two.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "506a5b47-52ab-4e05-beac-ac1ffb820947",
             "Value": {
                 "id": "a04e8c5e-8e7e-4359-ad41-c7c09bf5a64f",
                 "resourcePath": "objects\\obj_enemy_bounds\\obj_enemy_bounds.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "525db2b5-5287-407d-926e-d5f497d76ad0",
+            "Value": {
+                "id": "aba21bbc-b25f-467f-9711-08895de16dc2",
+                "resourcePath": "objects\\obj_saw_moving_hor\\obj_saw_moving_hor.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -260,14 +284,6 @@
                 "id": "13043807-765b-4b2d-94a5-f18d4fce7e12",
                 "resourcePath": "views\\a602e204-84f8-4ea3-9345-0b91c3906576.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
-            "Value": {
-                "id": "bc33d9c6-4206-4a7c-a1dd-f22b7e21f36b",
-                "resourcePath": "options\\linux\\options_linux.yy",
-                "resourceType": "GMLinuxOptions"
             }
         },
         {
@@ -364,14 +380,6 @@
                 "id": "3b076ffb-e386-410c-bcdd-f3631f07190f",
                 "resourcePath": "objects\\obj_life_score_controller\\obj_life_score_controller.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
-            "Value": {
-                "id": "b25cf4be-2b7f-4b99-930c-995805ae91c9",
-                "resourcePath": "options\\mac\\options_mac.yy",
-                "resourceType": "GMMacOptions"
             }
         },
         {
