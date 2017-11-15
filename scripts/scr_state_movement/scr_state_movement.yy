@@ -1,8 +1,8 @@
 {
-    "id": "7ba3a222-6f61-4c74-ac1f-52c191bc8fd2",
+    "id": "1587eb68-04e6-4df6-8959-63d6070cc436",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "scr_FSM",
+    "name": "scr_state_movement",
     "IsCompatibility": false,
     "IsDnD": false
 }

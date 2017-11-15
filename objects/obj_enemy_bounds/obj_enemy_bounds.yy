@@ -1,8 +1,8 @@
 {
-    "id": "a15f9749-2e6a-4ef6-a0a5-c6517db1920b",
+    "id": "506a5b47-52ab-4e05-beac-ac1ffb820947",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_wall",
+    "name": "obj_enemy_bounds",
     "eventList": [
         
     ],
@@ -21,7 +21,7 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "solid": true,
-    "spriteId": "9ceaea78-8726-4b45-bd42-e1366b2a7740",
-    "visible": true
+    "solid": false,
+    "spriteId": "30d13d21-6c64-44e1-9439-8b5e4cf9bbb8",
+    "visible": false
 }
