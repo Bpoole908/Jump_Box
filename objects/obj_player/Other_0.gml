@@ -3,13 +3,13 @@
 /// @DnDHash : 6134A1AA
 room_restart();
 
-/// @DnDAction : YoYo Games.Instance Variables.Set_Lives
+/// @DnDAction : YoYo Games.Instance Variables.Set_Score
 /// @DnDVersion : 1
-/// @DnDHash : 03A4CCEF
+/// @DnDHash : 7C10F944
 /// @DnDApplyTo : e6ececff-a62e-4dab-b01c-865bb45cd75e
-/// @DnDArgument : "lives" "-1"
-/// @DnDArgument : "lives_relative" "1"
-with(obj_life_score_controller) {
-if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
-__dnd_lives += real(-1);
+/// @DnDArgument : "score" "1"
+/// @DnDArgument : "score_relative" "1"
+with(obj_controller) {
+if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
+__dnd_score += real(1);
 }

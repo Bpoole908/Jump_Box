@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "6a6dd4e6-c4a3-46be-9632-005579dd1e5c",
+            "Value": {
+                "id": "17c7de4a-a744-4fc5-ad9e-e3cc99d9ffa3",
+                "resourcePath": "sounds\\snd_background\\snd_background.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "6b68d1bb-83ea-456b-8680-ad6e33c9340f",
             "Value": {
                 "id": "f9bcf431-cc2a-4e6d-b54e-bc4aa0529a62",
@@ -450,7 +458,7 @@
             "Key": "e6ececff-a62e-4dab-b01c-865bb45cd75e",
             "Value": {
                 "id": "3b076ffb-e386-410c-bcdd-f3631f07190f",
-                "resourcePath": "objects\\obj_life_score_controller\\obj_life_score_controller.yy",
+                "resourcePath": "objects\\obj_controller\\obj_controller.yy",
                 "resourceType": "GMObject"
             }
         },

@@ -2,7 +2,7 @@
     "id": "e6ececff-a62e-4dab-b01c-865bb45cd75e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_life_score_controller",
+    "name": "obj_controller",
     "eventList": [
         {
             "id": "96b1d38c-7ba0-4f50-bc86-73961eb24828",
