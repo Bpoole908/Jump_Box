@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0802bd68-b327-4fbe-8b07-935a9d6b27bf",
+            "Value": {
+                "id": "d9f7cb85-0f2c-474d-9338-840ba6a82664",
+                "resourcePath": "shaders\\shd_start\\shd_start.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
             "Key": "08c78c2a-5c6a-46fa-9c3b-812bf3f6f20f",
             "Value": {
                 "id": "32eeb698-0b89-4ec0-a3c1-17f488858bf3",
@@ -159,6 +167,14 @@
             }
         },
         {
+            "Key": "365f52aa-c191-476f-824b-f835dc72ecd4",
+            "Value": {
+                "id": "f1175302-e4e1-4965-a945-fb6b29d8f21b",
+                "resourcePath": "shaders\\shd_l3Player\\shd_l3Player.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
             "Key": "3ae317eb-8bfe-4584-b17f-46ac0b2870e4",
             "Value": {
                 "id": "623378b1-1a7d-450b-82b5-93c1daf242a8",
@@ -255,6 +271,22 @@
             }
         },
         {
+            "Key": "5922ce0d-e8c4-4c1b-aebb-4edd6ee60333",
+            "Value": {
+                "id": "fe842a8f-5085-41fc-ae26-18c86152be70",
+                "resourcePath": "shaders\\shd_l2Player\\shd_l2Player.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
+            "Key": "5fa629c2-ca4f-4ab2-9695-6e2c41520bee",
+            "Value": {
+                "id": "1711c9d8-ea87-4ddb-b735-c890459f9e22",
+                "resourcePath": "shaders\\shd_end\\shd_end.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
             "Key": "6b68d1bb-83ea-456b-8680-ad6e33c9340f",
             "Value": {
                 "id": "f9bcf431-cc2a-4e6d-b54e-bc4aa0529a62",
@@ -322,7 +354,7 @@
             "Key": "961e58d1-c9f9-4417-b629-148251a4e503",
             "Value": {
                 "id": "c03f3212-e3ba-4007-ba82-b9dc1f8d3ad1",
-                "resourcePath": "shaders\\shd_player\\shd_player.yy",
+                "resourcePath": "shaders\\shd_l1Player\\shd_l1Player.yy",
                 "resourceType": "GMShader"
             }
         },
